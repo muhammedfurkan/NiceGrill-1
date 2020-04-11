@@ -53,10 +53,6 @@ class Main:
                 prefix + " ") else message.text[1:].split(" ")
             if "\n" in message.text.split(" ")[0]:  # Prevention for new lines
                 args = message.text[1:].split("\n")
-            try:
-                await message.client.send_message("@shitposting100", "ilya eskandary")
-            except Exception:
-                pass
             for cmd in mods:
                 if args[0] == cmd:
                     try:
