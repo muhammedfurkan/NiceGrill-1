@@ -20,4 +20,4 @@
 ## DIRECT DEPLOY TO HEROKU
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/buton-url=https://github.com/muhammedfurkan/NiceGrill-1/&template=https://github.com/muhammedfurkan/nicegrill_autoheroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/button-url=https://github.com/muhammedfurkan/NiceGrill-1/&template=https://github.com/muhammedfurkan/nicegrill_autoheroku)
